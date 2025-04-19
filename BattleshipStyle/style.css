@@ -1,0 +1,171 @@
+.battleshipFontLrg {
+	 -fx-font-family: Impact, sans-serif;
+	     font-family: Impact, sans-serif;
+	 -fx-font-size: 25px;
+	     font-size: 25px;  
+	 -fx-color: #ffffff;
+	 	 color: #ffffff;
+	    
+}
+
+.battleshipFontMed {
+	 -fx-font-family: Impact, sans-serif;
+	     font-family: Impact, sans-serif;
+	 -fx-font-size: 20px;
+	     font-size: 20px;  
+	 -fx-color: #ffffff;
+	 	 color: #ffffff;
+	    
+}
+
+.battleshipFontSmall {
+	 -fx-font-family: Impact, sans-serif;
+	     font-family: Impact, sans-serif;
+	 -fx-font-size: 15px;
+	     font-size: 15px;  
+	 -fx-color: #ffffff;
+	 	 color: #ffffff;	    
+}
+
+
+.SSerrorLabel {
+	 -fx-font-family: Impact, sans-serif;
+	     font-family: Impact, sans-serif;
+	 -fx-font-size: 12px;
+	     font-size: 12px;  	
+	 -fx-background-color: #ffffff;
+	     background-color: #ffffff;
+	 -fx-border-radius: 20px;
+    	 border-radius: 20px;
+     -fx-padding: 5px;
+    	 padding: 5px;
+}
+
+.MMbutton{
+    -fx-text-fill: #058cd4;
+    -fx-background-color: #DFB951;
+    	background-color : #DFB951;
+    -fx-border-radius: 20;
+    	border-radius : 20;
+    -fx-background-radius: 20;
+    -fx-padding: 10;
+    	padding: 10;
+    -fx-font-size: 20;
+    	font-size: 20;
+    -fx-height: 100px;
+    	height: 100px;
+    -fx-width: 200px;
+    	width: 200px;
+    -fx-margin: 50px;
+    	margin: 50px;
+    
+}
+
+.invis {
+     -fx-opacity: 0.0;
+	 	opacity: 0.0;	
+
+}
+
+.invisButton {
+     -fx-opacity: 0.0;
+	 	opacity: 0.0;	 
+	-fx-text-fill: #058cd4;
+    -fx-background-color: #DFB951;
+    	background-color : #DFB951;
+    -fx-border-radius: 20;
+    	border-radius : 20;
+    -fx-background-radius: 20;
+    -fx-padding: 10;
+    	padding: 10;
+    -fx-font-size: 20;
+    	font-size: 20;
+    -fx-height: 100px;
+    	height: 100px;
+    -fx-width: 200px;
+    	width: 200px;
+    -fx-margin: 50px;
+    	margin: 50px;
+}
+
+
+
+.mainMenuBackground {
+	-fx-background-image: url("mainMenuBackground.png");
+		background-image: url("mainMenuBackground.png");
+	-fx-background-size: 800px;
+		background-size: 800px;
+	-fx-background-repeat: no-repeat;
+		background-repeat: no-repeat;
+	
+}
+
+.shipSelectorBackground {
+	-fx-background-image: url("shipSelBackground2.png");
+		background-image: url("shipSelBackground2.png");
+	-fx-background-size: contain;
+		background-size: contain;
+	-fx-background-repeat: no-repeat;
+		background-repeat: no-repeat;
+	-fx-background-color : #04abeb;
+	    background-color : #04abeb;
+}
+
+.gridpointDefault {
+	-fx-border-color : #DFB951;
+		border-color : #DFB951;
+	-fx-background-color: #0071ed;
+		background-color: #0071ed;
+	-fx-border-width: 1.5px;
+	    border-width: 1.5px;
+	 -fx-opacity: 0.8;
+	 	opacity: 0.8;	   
+	
+}
+
+.gameViewBackground {
+	-fx-background-image: url("gameViewBackground.png");
+		background-image: url("gameViewBackground.png");
+	-fx-background-size: 650px 900px;
+		background-size: 650px 900px;
+	-fx-background-repeat: no-repeat;
+		background-repeat: no-repeat;
+	-fx-background-color : #04abeb;
+	    background-color : #04abeb;
+}
+
+.winPopupBackground {
+	-fx-background-image: url("win.png");
+		background-image: url("win.png");
+	-fx-background-size: contain;
+		background-size: contain;
+	-fx-background-repeat: no-repeat;
+		background-repeat: no-repeat;
+	-fx-background-color : #04abeb;
+	    background-color : #04abeb;
+}
+
+.losePopupBackground {
+	-fx-background-image: url("lose.png");
+		background-image: url("lose.png");
+	-fx-background-size: contain;
+		background-size: contain;
+	-fx-background-repeat: no-repeat;
+		background-repeat: no-repeat;
+	-fx-background-color : #04abeb;
+	    background-color : #04abeb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
